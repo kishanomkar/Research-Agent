@@ -1,0 +1,15 @@
+ipykernel
+ipython
+langsmith
+python-dotenv
+ibm_watsonx_ai
+tavily-python
+langchain==0.2.0
+langchain-anthropic==0.1.15
+langchain-community==0.2.1
+langchain-core==0.2.35
+langchain-experimental==0.0.59
+langchain-ibm==0.1.7
+langchain-openai==0.1.8
+langchain-text-splitters==0.2.0
+langgraph==0.2.14
